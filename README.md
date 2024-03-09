@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sircuack
+- 👀 I’m interested in Data analytics, Machine learning & Robotic
+- 🌱 I’m currently learning Pythong & Go
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: NoePelada
